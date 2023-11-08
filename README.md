@@ -3,7 +3,7 @@
 ## Status do Projeto: Em Andamento
 
 Weather Wise é uma aplicação que permite aos usuários consultar a temperatura atual de uma cidade específica. Além disso, fornece informações sobre onde a aplicação está hospedada.
-
+![image](https://github.com/andreikestrel/quetz-climate/assets/96220262/dbeca6aa-3e88-4dee-97c9-c249a576ebdf)
 ## Tecnologias Utilizadas
 
 - **Next.js:** Framework de React para desenvolvimento de aplicações web do lado do servidor.
@@ -17,6 +17,7 @@ Weather Wise é uma aplicação que permite aos usuários consultar a temperatur
 No futuro, planejamos integrar o Weather Wise com a API do OpenWeather para fornecer dados meteorológicos precisos e atualizados. Essa integração permitirá aos usuários acessar informações detalhadas sobre o clima, como previsões de temperatura, umidade, velocidade do vento e muito mais para suas cidades preferidas.
 
 ## Como Usar
+
 
 1. Clone este repositório em sua máquina local.
    ```
@@ -44,9 +45,6 @@ No futuro, planejamos integrar o Weather Wise com a API do OpenWeather para forn
 
 4. Abra seu navegador e acesse `http://localhost:3000` para ver a aplicação em funcionamento.
 
-## Onde Está Hospedado
-
-Atualmente, o Quetz Climate está hospedado na Vercel para garantir alta disponibilidade e desempenho excepcional.
 
 ---
 
