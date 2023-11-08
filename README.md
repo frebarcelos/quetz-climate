@@ -2,7 +2,7 @@
 
 ## Status do Projeto: Em Andamento
 
-Weather Wise é uma aplicação que permite aos usuários consultar a temperatura atual de uma cidade específica. Além disso, fornece informações sobre onde a aplicação está hospedada.
+Weather Wise é uma aplicação que permite aos usuários consultar a temperatura atual de uma cidade específica.
 ![image](https://github.com/andreikestrel/quetz-climate/assets/96220262/dbeca6aa-3e88-4dee-97c9-c249a576ebdf)
 ## Tecnologias Utilizadas
 
