@@ -1,4 +1,4 @@
-# Weather Wise
+# Quetz Climate
 
 ## Status do Projeto: Em Andamento
 
@@ -46,7 +46,7 @@ No futuro, planejamos integrar o Weather Wise com a API do OpenWeather para forn
 
 ## Onde Está Hospedado
 
-Atualmente, o Weather Wise está hospedado na Vercel para garantir alta disponibilidade e desempenho excepcional. [Acesse o Weather Wise](https://weather-wise.vercel.app/)
+Atualmente, o Quetz Climate está hospedado na Vercel para garantir alta disponibilidade e desempenho excepcional.
 
 ---
 
