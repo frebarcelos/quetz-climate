@@ -2,7 +2,7 @@
 
 ## Status do Projeto: Em Andamento
 
-Weather Wise é uma aplicação que permite aos usuários consultar a temperatura atual de uma cidade específica.
+Quetz é uma aplicação que permite aos usuários consultar a temperatura atual de uma cidade específica.
 ![image](https://github.com/andreikestrel/quetz-climate/assets/96220262/dbeca6aa-3e88-4dee-97c9-c249a576ebdf)
 ## Tecnologias Utilizadas
 
@@ -14,19 +14,19 @@ Weather Wise é uma aplicação que permite aos usuários consultar a temperatur
 
 ## Futuras Integrações
 
-No futuro, planejamos integrar o Weather Wise com a API do OpenWeather para fornecer dados meteorológicos precisos e atualizados. Essa integração permitirá aos usuários acessar informações detalhadas sobre o clima, como previsões de temperatura, umidade, velocidade do vento e muito mais para suas cidades preferidas.
+No futuro, planejamos integrar o Quetz com a API do OpenWeather para fornecer dados meteorológicos precisos e atualizados. Essa integração permitirá aos usuários acessar informações detalhadas sobre o clima, como previsões de temperatura, umidade, velocidade do vento e muito mais para suas cidades preferidas.
 
 ## Como Usar
 
 
 1. Clone este repositório em sua máquina local.
    ```
-   git clone https://github.com/seu-usuario/weather-wise.git
+   git clone https://github.com/seu-usuario/quetz-climate.git
    ```
 
 2. Instale as dependências do projeto usando npm ou yarn.
    ```
-   cd weather-wise
+   cd quetz-climate
    npm install
    ```
    ou
