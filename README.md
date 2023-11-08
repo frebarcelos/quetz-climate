@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Weather Wise
 
-## Getting Started
+## Status do Projeto: Em Andamento
 
-First, run the development server:
+Weather Wise é uma aplicação que permite aos usuários consultar a temperatura atual de uma cidade específica. Além disso, fornece informações sobre onde a aplicação está hospedada.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tecnologias Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js:** Framework de React para desenvolvimento de aplicações web do lado do servidor.
+- **React.js:** Biblioteca JavaScript para construir interfaces de usuário interativas.
+- **Tailwind CSS:** Framework de design responsivo para criar layouts modernos e elegantes.
+- **React Icons:** Conjunto de ícones React personalizáveis para melhorar a experiência do usuário.
+- **Flowbite:** Conjunto de componentes UI prontos para uso, facilitando o desenvolvimento e a estilização do aplicativo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Futuras Integrações
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+No futuro, planejamos integrar o Weather Wise com a API do OpenWeather para fornecer dados meteorológicos precisos e atualizados. Essa integração permitirá aos usuários acessar informações detalhadas sobre o clima, como previsões de temperatura, umidade, velocidade do vento e muito mais para suas cidades preferidas.
 
-## Learn More
+## Como Usar
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone este repositório em sua máquina local.
+   ```
+   git clone https://github.com/seu-usuario/weather-wise.git
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Instale as dependências do projeto usando npm ou yarn.
+   ```
+   cd weather-wise
+   npm install
+   ```
+   ou
+   ```
+   yarn install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Inicie o servidor de desenvolvimento.
+   ```
+   npm run dev
+   ```
+   ou
+   ```
+   yarn dev
+   ```
 
-## Deploy on Vercel
+4. Abra seu navegador e acesse `http://localhost:3000` para ver a aplicação em funcionamento.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Onde Está Hospedado
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Atualmente, o Weather Wise está hospedado na Vercel para garantir alta disponibilidade e desempenho excepcional. [Acesse o Weather Wise](https://weather-wise.vercel.app/)
+
+---
+
+Este projeto está em constante desenvolvimento para proporcionar aos usuários uma experiência simples e eficaz ao consultar a temperatura de suas cidades preferidas. Fique à vontade para contribuir, relatar problemas ou enviar sugestões para tornar o Weather Wise ainda melhor!
