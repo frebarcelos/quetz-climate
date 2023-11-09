@@ -16,11 +16,12 @@ const config: Config = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       fontFamily: {
-        'montserrat': ['Montserrat'],
-        'lato': ['Lato'],
-        'garamond': ['Garamond'],
-        'Yanone Kaffeesatz': ['Yanone'],
-    },
+        sans: ['Inter var', 'sans-serif'],
+              'montserrat': ['Montserrat'],
+              'lato': ['Lato'],
+              'garamond': ['Garamond'],
+              'sans-roboto': ['Roboto'],
+      },
       colors: {
         black: '#252525',
         blue: '#4e56ff',
